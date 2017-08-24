@@ -1,0 +1,6 @@
+c:\users\loscordonhdez\documents\visual studio 2015\Projects\Practica1_Lenguajes\bin\Debug\Practica1_Lenguajes.exe.config
+c:\users\loscordonhdez\documents\visual studio 2015\Projects\Practica1_Lenguajes\bin\Debug\Practica1_Lenguajes.exe
+c:\users\loscordonhdez\documents\visual studio 2015\Projects\Practica1_Lenguajes\bin\Debug\Practica1_Lenguajes.pdb
+c:\users\loscordonhdez\documents\visual studio 2015\Projects\Practica1_Lenguajes\obj\Debug\Practica1_Lenguajes.csprojResolveAssemblyReference.cache
+c:\users\loscordonhdez\documents\visual studio 2015\Projects\Practica1_Lenguajes\obj\Debug\Practica1_Lenguajes.exe
+c:\users\loscordonhdez\documents\visual studio 2015\Projects\Practica1_Lenguajes\obj\Debug\Practica1_Lenguajes.pdb
